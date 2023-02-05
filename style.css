@@ -1,0 +1,42 @@
+html,body{
+    height: 1%;
+    width: 100%;
+}
+    #username{
+        text-align: left;
+            position:absolute;
+            top: 250px;
+            left: 800px;
+            height: 50%;
+            width: 30%;
+            line-height:0px;
+            font-family: 'Calibri';
+            font-style: normal;   
+            
+        
+    }
+    #password{
+        text-align: left;
+            position:absolute;
+            top: 320px;
+            left: 800px;
+            height: 50%;
+            width: 30%;
+            line-height:0px;
+            font-family: 'Calibri';
+            font-style: normal;   
+
+    }
+    #login{
+        text-align: left;
+            position:absolute;
+            top: 420px;
+            left: 900px;
+            height:90%;
+            width: 50px;
+            line-height:0px;
+            font-family: 'Calibri';
+            font-style: normal;  
+             
+            
+    }
